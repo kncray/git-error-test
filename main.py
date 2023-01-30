@@ -8,6 +8,7 @@ sentry_sdk.init(
 
 def main():
     print('main')
+    1/0
 
 
 if __name__ == '__main__':
